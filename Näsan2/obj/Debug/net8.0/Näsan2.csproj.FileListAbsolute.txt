@@ -1,0 +1,15 @@
+c:\Users\julius.jansson\Desktop\MickeB prog 2\Näsan2\Näsan2\bin\Debug\net8.0\Näsan2.exe
+c:\Users\julius.jansson\Desktop\MickeB prog 2\Näsan2\Näsan2\bin\Debug\net8.0\Näsan2.deps.json
+c:\Users\julius.jansson\Desktop\MickeB prog 2\Näsan2\Näsan2\bin\Debug\net8.0\Näsan2.runtimeconfig.json
+c:\Users\julius.jansson\Desktop\MickeB prog 2\Näsan2\Näsan2\bin\Debug\net8.0\Näsan2.dll
+c:\Users\julius.jansson\Desktop\MickeB prog 2\Näsan2\Näsan2\bin\Debug\net8.0\Näsan2.pdb
+c:\Users\julius.jansson\Desktop\MickeB prog 2\Näsan2\Näsan2\obj\Debug\net8.0\Näsan2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\julius.jansson\Desktop\MickeB prog 2\Näsan2\Näsan2\obj\Debug\net8.0\Näsan2.AssemblyInfoInputs.cache
+c:\Users\julius.jansson\Desktop\MickeB prog 2\Näsan2\Näsan2\obj\Debug\net8.0\Näsan2.AssemblyInfo.cs
+c:\Users\julius.jansson\Desktop\MickeB prog 2\Näsan2\Näsan2\obj\Debug\net8.0\Näsan2.csproj.CoreCompileInputs.cache
+c:\Users\julius.jansson\Desktop\MickeB prog 2\Näsan2\Näsan2\obj\Debug\net8.0\Näsan2.sourcelink.json
+c:\Users\julius.jansson\Desktop\MickeB prog 2\Näsan2\Näsan2\obj\Debug\net8.0\Näsan2.dll
+c:\Users\julius.jansson\Desktop\MickeB prog 2\Näsan2\Näsan2\obj\Debug\net8.0\refint\Näsan2.dll
+c:\Users\julius.jansson\Desktop\MickeB prog 2\Näsan2\Näsan2\obj\Debug\net8.0\Näsan2.pdb
+c:\Users\julius.jansson\Desktop\MickeB prog 2\Näsan2\Näsan2\obj\Debug\net8.0\Näsan2.genruntimeconfig.cache
+c:\Users\julius.jansson\Desktop\MickeB prog 2\Näsan2\Näsan2\obj\Debug\net8.0\ref\Näsan2.dll
